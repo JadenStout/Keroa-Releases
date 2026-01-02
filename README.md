@@ -8,8 +8,12 @@ This game is also being developed for a competition, so please be respectful reg
 🎮 Controls
 
 W / A / S / D — Movement
+
 Space — Action / Jump (if applicable)
+
 Escape — Exit the game
+
+Left click / Right Triger - attack
 
 📦 Downloading the Game
 
