@@ -25,4 +25,11 @@ Bugs, incomplete features, or unexpected behavior may be present
 Feedback is appreciated, but please understand the project’s current state
 Thank you for checking out Keroa: Echoes of the Fen.
 
+
+note -- >
+the tile colors do matter
+the green ones are timed blocks
+the dark blue-ish blocks are breakable with your hitbox
+the yellow ones require you to hit the orange one near it to be able to go through they are almost like doors / levers.
+
 — Jaden Stout-Reason
